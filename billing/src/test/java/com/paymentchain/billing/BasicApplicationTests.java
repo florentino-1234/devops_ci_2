@@ -49,6 +49,7 @@ public class BasicApplicationTests {
 		//comment
 		// last comment
 		// other comment
+		// other comment
     @Autowired
     private MockMvc mockMvc;
     @MockBean //mock the repository layer in order to have a unit test for weblayer
